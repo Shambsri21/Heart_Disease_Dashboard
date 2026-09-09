@@ -644,22 +644,8 @@ The project could be further improved by adding:
 
 ---
 
-# 22. Portfolio/Resume Project Description
 
-### **Heart Disease Risk & Patient Survival Analysis | Power BI**
-
-> Developed an interactive Power BI healthcare dashboard to analyze patient survival and mortality outcomes using clinical records. Created DAX-based KPIs including **67.89% survival rate, 203 surviving patients, 96 death events, and 60.83 average age of surviving patients**. Analyzed age-wise survival, cancer-related outcomes, serum sodium levels, diabetes distribution, and gender-based patterns using interactive visualizations and slicers.
-
-### Resume Bullet Points
-
-* Developed an interactive **Power BI Heart Disease Dashboard** analyzing **299 clinical patient records** with survival, mortality, demographic, and clinical indicators.
-* Created DAX measures for **Alive %, Total Alive, Total Death, Average Age, and Average Serum Sodium**.
-* Built age-group, cancer, diabetes, serum sodium, and gender analyses to identify meaningful patient-outcome patterns.
-* Applied **Power Query, DAX, data modeling, and interactive visualization techniques** to transform clinical data into actionable insights.
-
----
-
-# 23. Final Project Summary
+# 22. Final Project Summary
 
 **Heart Disease Risk & Patient Survival Analysis** is an end-to-end Power BI project that transforms clinical patient data into an interactive healthcare analytics dashboard.
 
