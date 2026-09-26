@@ -3,7 +3,7 @@
 <img width="770" height="433" alt="image" src="https://github.com/user-attachments/assets/756641d7-1237-410b-b0f2-26476f3624c4" />
 
 
-# ❤️ Heart Disease Dashboard — End-to-End Project Documentation
+# 🫀 Heart Disease Dashboard — End-to-End Project Documentation
 
 ## 1. Project Overview
 
